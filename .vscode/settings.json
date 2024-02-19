@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "yaffs_guts.h": "c",
+        "yaffs_ecc.h": "c",
+        "yportenv.h": "c",
+        "yportenv_multi.h": "c"
+    }
+}

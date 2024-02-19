@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+    {
+        "type": "debugpy",
+        "request": "launch", 
+        "name": "yaffs_unpack.py",
+        "program": "${workspaceRoot}/yaffs_unpack.py",
+        "cwd": "/home/miki/work",
+        "args": ["orig.official_yaffs.yaffs2.BE", "orig.official_yaffs.yaffs2.BE.unpack"]
+    }
+]
+}
